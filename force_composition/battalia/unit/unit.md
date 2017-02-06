@@ -6,7 +6,7 @@ A base collection of Foot, Horse, or Ordinance troops.
 
 [Armament][armament]
 
-[Hand-To-Hand[hand-to-hand]
+[Hand-To-Hand][hand-to-hand]
 
 [Shooting][shooting]
 
@@ -30,8 +30,8 @@ A base collection of Foot, Horse, or Ordinance troops.
 [hand-to-hand]: ./qualities/hand-to-hand.md
 [shooting]: ./qualities/shooting.md
 [morale]: ./qualities/morale.md
-[stamina]: ./qualities/stamina
-[special]: ./qualities/stamina
+[stamina]: ./qualities/stamina.md
+[special]: ./qualities/special.md
 [size]: ./size/size.md
 [facing]: ./facing.md
 [formation]: ./formation.md

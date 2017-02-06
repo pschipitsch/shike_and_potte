@@ -20,3 +20,6 @@ This rule only relates to **Changing Formation**.
 
  1. **Column**: A **Unit** with the **Warband Special Rule** may only **Change Formation** to **Column Formation** if it is on a road.  If a **Unit** with the **Warband Special Rule** is in **Column Formation** and it is not on a road, its next move MUST be to **Change Formation** to **Battle Line Formation**.
  1. **Skirmish Formation**: A **Unit** with the **Warband Special Rule** may only **Change Formation** to **Skirmish Formation** if it comes into contact with otherwise impassible terrain.  If a **Unit** with the **Warband Special Rule** is in **Skirmish Formation** and leaves the terrain that obliged it to **Change Formation** to **Skirmish Formation**, its next move MUST be to **Change Formation** to **Battle Line Formation**.
+
+### Buildings
+**Units** occupying a building have no formation.
