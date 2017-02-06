@@ -19,7 +19,12 @@ A **Commander Rating** can never be greater than 10.
 All measurements are made from the center of the figure representing the **Commander**.
 
 ## Movement
-The **Commander** must remain within one move's distance of one unit in their [Battalia][battalia].
+Do not move with a previously **joined** unit during the **Command Phase** unless issuing the **Follow Me Order**.
+May **Join** a friendly unit during the **Command Phase** immediately after completing orders.
+Must not voluntarily move beyond one move's distance of at least one unit in their [Battalia][battalia].
+
+## Combat
+When joined with a **unit** and the **Commander Rating** is greater than or equal to 8 add +1 dice to the **Unit's** **Hand-To-Hand** total. **Named Commanders** do not confer this bonus.
 
 [battalia]: ./battalia.md
 [battalia_class]: ./battalia.md#class
