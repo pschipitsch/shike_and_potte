@@ -13,4 +13,4 @@ The type of unit most frequent in the **Battalia**.  The **Battalia Class** dete
 [Unit][unit]
 
 [commander]: ./commander.md
-[unit]: ./unit.md
+[unit]: ./unit/unit.md
