@@ -2,7 +2,7 @@
 A mandatory [Battalia][battalia] leader with or without support staff.
 
 ## Type
-The **Commander Type** is the [Battalia Class][battalia_class] of the [Battalia][battalia] that it leads:
+The **Commander Type** is determined by the [Battalia Class][battalia_class] of the [Battalia][battalia] that it leads:
 
  1. Foot
  2. Artillery
