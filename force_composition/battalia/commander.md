@@ -12,7 +12,9 @@ Use the **Commander Type** with the lowest **Commander Rating** if there is a ti
 
 ## Rating
 5, 6, 7, 8, 9, or 10
+
 A **Commander Rating** can never be less than 5.
+
 A **Commander Rating** can never be greater than 10.
 
 ## Measurement
@@ -20,7 +22,9 @@ All measurements are made from the center of the figure representing the **Comma
 
 ## Movement
 Do not move with a previously **joined** unit during the **Command Phase** unless issuing the **Follow Me Order**.
+
 May **Join** a friendly unit during the **Command Phase** immediately after completing orders.
+
 Must not voluntarily move beyond one move's distance of at least one unit in their [Battalia][battalia].
 
 ## Combat
